@@ -20,7 +20,7 @@ class ProductDeitails extends Component {
     const { onAddToCard } = this.props;
 
     return (
-      <div className="container ">
+      <div className="container">
         <div className="row min-vh-100 align-items-center">
           <div className="col-lg-6 ml-auto  justify-content-center">
             <div className="image-content" data-aos="fade-right">
